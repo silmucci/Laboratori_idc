@@ -1,4 +1,0 @@
-ip address add 
-
-
-systemctl start frr
